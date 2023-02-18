@@ -4,8 +4,14 @@ Play store App Analysis
 
 Python Project using Pandas, Numpy, Matplotlib ,Seaborn
 
-To the viewwers who are watching this project
+To the viewers who are watching this project
 
-This Project is not completed yet, Please do come and watch later for the entire result
+First of all Thank you for spending time to see my project
 
-Thank you
+I have successfully completed my First EDA project in Python
+
+I have spent my days in Analyzing this project and made great insights which will help for Business growth
+
+Looking forward to do lot of projects in the same way
+
+Thanks once again for your interest.
